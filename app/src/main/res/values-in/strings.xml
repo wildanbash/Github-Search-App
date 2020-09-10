@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Search User</string>
+
+    <!--  Search Activity Resource  -->
+    <string name="search">Cari</string>
+    <string name="desc_button_search">Tombol Pencarian</string>
+    <string name="search_user">Cari Pengguna</string>
+
+    <!--  Icon Description Resource  -->
+    <string name="ic_location">Ikon Lokasi</string>
+    <string name="ic_profile">Ikon Profil</string>
+
+    <!--  Detail Activity Resource  -->
+    <string name="detail_profile_image">Detail Foto Profil</string>
+    <string name="detail_repositories">Repositori</string>
+    <string name="detail_follower">Pengikut</string>
+    <string name="detail_following">Mengikuti</string>
+    <string name="detail_button_back">Tombol Kembali</string>
+    <string name="detail_profile">Profil</string>
+
+    <!--  Favorite Resource  -->
+    <string name="favorite_title">Favorit</string>
+    <string name="favorite_success_deleted">Dihapus dari favorit</string>
+    <string name="favorite_success_add">Berhasil menambahkan ke favorit</string>
+
+    <!--  Item User Layout Resource-->
+    <string name="item_user_desc_image_profile">Foto Profil</string>
+    <string name="change_language">Atur Bahasa</string>
+
+    <!--  Error Layout Resource  -->
+    <string name="error_title">Oops..</string>
+    <string name="not_found_following">Pengguna tidak mengikuti siapapun</string>
+    <string name="not_found_follower">Pengguna tidak memiliki pengikut</string>
+    <string name="not_found_favorite">Anda tidak memiliki pengguna favorit</string>
+    <string name="not_found">Kami tidak dapat menemukan hasil pencarian</string>
+    <string name="waiting_recent_title">Menunggu Pencarian!</string>
+    <string name="waiting_recent_message">Hasil pencarian akan dimuat di sini</string>
+    <string name="illustration_error">Gambar Ilustrasi</string>
+
+    <!--  Setting Layout Resource  -->
+    <string name="settings">Pengaturan</string>
+    <string name="reminder">Pengingat</string>
+    <string name="language">Bahasa</string>
+    <string name="daily_reminder_off">Pengingat Harian Mati</string>
+    <string name="daily_reminder_on">Pengingat Harian Hidup</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+</resources>

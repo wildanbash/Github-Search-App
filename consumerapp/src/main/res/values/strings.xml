@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+
+    <!--  Icon Description Resource  -->
+    <string name="ic_location">ic location</string>
+    <string name="ic_profile">ic profile</string>
+
+    <!--  Detail Activity Resource  -->
+    <string name="detail_profile_image">Detail Profile Image</string>
+    <string name="detail_repositories">Repositories</string>
+    <string name="detail_follower">Follower</string>
+    <string name="detail_following">Following</string>
+    <string name="detail_button_back">Button Back</string>
+    <string name="detail_profile">Profile</string>
+
+    <!--  Favorite Resource  -->
+    <string name="favorite_title">Favorite</string>
+    <string name="favorite_success_deleted">Deleted from favorite</string>
+    <string name="favorite_success_add">Success add to favorite</string>
+
+    <!--  Item User Layout Resource-->
+    <string name="item_user_desc_image_profile">Image Profile</string>
+    <string name="change_language">Change Language</string>
+
+    <!--  Error Layout Resource  -->
+    <string name="error_title">Oops..</string>
+    <string name="not_found_following">User doesn\'t have following</string>
+    <string name="not_found_follower">User doesn\'t have follower</string>
+    <string name="not_found_favorite">You doesn\'t have favorite users</string>
+    <string name="illustration_error">Image Illustration</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>
