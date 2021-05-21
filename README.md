@@ -1,2 +1,83 @@
-# Github-Search-App
-Github Users
+## Demo    
+<h3 align="center"> Search Screen </h3>
+<p align="center">
+    <img src="assets/SearchScreen.png"
+        alt="Search Screen Waiting"    
+        style="margin-right: 10px;"    
+        width="200" />
+    <img src="assets/SearchUser.png"
+        alt="Search Screen Loaded"    
+        style="margin-right: 10px;"    
+        width="200" />
+    <img src="assets/SearchNotFound.png"
+        alt="Search Screen Error"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
+<h3 align="center"> Notification Reminder </h3>
+<p align="center">
+    <img src="assets/AlarmManagerNotications.png"
+        alt="Notification Reminder"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
+<h3 align="center"> Profile Screen </h3>
+<p align="center">
+    <img src="assets/DetailUser.png"
+        alt="Detail User"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/Follower.png"
+        alt="Follower Screen"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/Following.png"
+        alt="Following Screen"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/AddFavorite.png"
+        alt="Toast Add Favorite"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/DeleteFavorite.png"
+        alt="Toast Delete Favorite"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
+<h3 align="center"> Favorite Screen</h3>
+<p align="center">
+    <img src="assets/FavoriteScreenEmpty.png"
+        alt="Favorite Screen"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/FavoriteScreen.png"
+        alt="Favorite Screen"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
+<h3 align="center"> Setting Screen</h3>
+<p align="center">
+    <img src="assets/Setting.png"
+        alt="Setting Reminder On"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/Setting2.png"
+        alt="Setting Reminder Off"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
+<h3 align="center">Widget</h3>
+<p align="center">
+    <img src="assets/Widget1.png"
+        alt="Widget"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/Widget2.png"
+        alt="Widget"    
+        style="margin-right: 10px;"    
+        width="200" />
+  <img src="assets/Widget3.png"
+        alt="Widget"    
+        style="margin-right: 10px;"    
+        width="200" />
+</p>
